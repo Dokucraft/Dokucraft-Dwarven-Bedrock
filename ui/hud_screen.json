@@ -186,7 +186,7 @@
 
   "full_dokuxp_bar": {
     "type": "image",
-    "texture": "textures/ui/experiencebarfull",
+    "texture": "textures/ui/doku_experiencebarfull",
     "clip_direction": "left",
     "clip_pixelperfect": false,
     "bindings": [
@@ -200,7 +200,7 @@
 
   "empty_dokuxp_bar": {
     "type": "image",
-    "texture": "textures/ui/experiencebarempty"
+    "texture": "textures/ui/doku_experiencebarempty"
   },
 
   "progress_bar_nub": {
@@ -1099,19 +1099,20 @@
   },
 
   "item_name_text": {
-    "type": "panel",
-    "size": [ 100, 10 ],
+    "type": "image",
+    "size": [ "100%c + 12px", "100%c + 5px" ],
+    "texture": "textures/ui/hud_tip_text_background",
+    "alpha": "@hud.anim_item_name_background_alpha",
     "controls": [
       {
         "item_text_label": {
           "type": "label",
-          "anchor_from": "bottom_middle",
-          "anchor_to": "bottom_middle",
+          "anchor_from": "center",
+          "anchor_to": "center",
           "text_alignment": "center",
           "layer": 31,
           "color": "$tool_tip_text",
           "text": "#text",
-          "shadow": true,
           "alpha": "@hud.anim_item_name_text_alpha",
           "bindings": [
             {
@@ -1154,7 +1155,14 @@
   },
 
   "survival_item_name_text@hud.item_name_text": {
-    "offset": [ 0, -32 ]
+    "$offset|default": [ 0, -32 ],
+    "variables": [
+      {
+        "requires": "$pocket_screen",
+        "$offset": [ 0, -10 ]
+      }
+    ],
+    "offset": "$offset"
   },
 
   "creative_above_interact_button_item_text@hud.item_name_text": {
@@ -1182,7 +1190,11 @@
   },
 
   "hud_tip_text@hud.item_name_text": {
+    "type": "image",
+    "size": [ "100%c + 12px", "100%c + 5px" ],
     "offset": [ 0, "50%-68px" ],
+    "texture": "textures/ui/hud_tip_text_background",
+    "alpha": "@hud.anim_item_name_background_alpha",
     "controls": [
       {
         "item_text_label": {

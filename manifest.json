@@ -14,17 +14,5 @@
             "type" : "resources",
             "uuid" : "1ce11d35-476e-4582-8e61-cad6524b53b7"
         }
-    ],
-	"subpacks": [
-   {
-      "folder_name": "no_random_rotation",
-      "name": "No Random Rotation",
-      "memory_tier": 1
-      },
-   {
-      "folder_name": "random_rotation",
-      "name": "Random Rotation",
-      "memory_tier": 2
-      }
-   ]
+    ]
 }

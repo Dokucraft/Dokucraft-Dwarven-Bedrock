@@ -221,7 +221,7 @@
         "textures/blocks/mossy_stone_bricks",
         "textures/blocks/nether_bricks",
         "textures/blocks/end_stone_bricks",
-        "textures/blocks/prismarine",
+        "textures/blocks/prismarine_rough",
         "textures/blocks/red_sandstone",
         "textures/blocks/red_nether_bricks"
       ]
@@ -367,12 +367,6 @@
     },
     "crimson_door_top": {
       "textures": "textures/blocks/crimson_door_top"
-    },
-    "crimson_log_side": {
-      "textures": "textures/blocks/crimson_stem"
-    },
-    "crimson_log_top": {
-      "textures": "textures/blocks/crimson_stem_top"
     },
     "crimson_nylium_top": {
       "textures": "textures/blocks/crimson_nylium"
@@ -1462,7 +1456,7 @@
     },
     "prismarine": {
       "textures": [
-        "textures/blocks/prismarine",
+        "textures/blocks/prismarine_rough",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks"
       ]
@@ -1779,7 +1773,7 @@
       "textures": [
         "textures/blocks/red_sandstone_bottom",
         "textures/blocks/purpur_block",
-        "textures/blocks/prismarine",
+        "textures/blocks/prismarine_rough",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
         "textures/blocks/mossy_cobblestone",
@@ -1824,7 +1818,7 @@
       "textures": [
         "textures/blocks/red_sandstone",
         "textures/blocks/purpur_block",
-        "textures/blocks/prismarine",
+        "textures/blocks/prismarine_rough",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
         "textures/blocks/mossy_cobblestone",
@@ -1869,7 +1863,7 @@
       "textures": [
         "textures/blocks/red_sandstone_top",
         "textures/blocks/purpur_block",
-        "textures/blocks/prismarine",
+        "textures/blocks/prismarine_rough",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
         "textures/blocks/mossy_cobblestone",
@@ -1942,22 +1936,6 @@
         "textures/blocks/sunflower_back"
       ]
     },
-    "tallgrass": {
-      "textures": [
-        "textures/blocks/grass",
-        "textures/blocks/grass",
-        "textures/blocks/fern",
-        "textures/blocks/fern"
-      ]
-    },
-    "tallgrass_carried": {
-      "textures": [
-        "textures/blocks/grass_carried",
-        "textures/blocks/grass_carried",
-        "textures/blocks/fern_carried",
-        "textures/blocks/fern_carried"
-      ]
-    },
     "trapdoor": {
       "textures": "textures/blocks/oak_trapdoor"
     },
@@ -1984,12 +1962,6 @@
     },
     "warped_sign": {
       "textures": "textures/blocks/warped_planks"
-    },
-    "warped_stem_side": {
-      "textures": "textures/blocks/warped_stem"
-    },
-    "warped_stem_top": {
-      "textures": "textures/blocks/warped_stem_top"
     },
     "warped_trapdoor": {
       "textures": "textures/blocks/warped_trapdoor"

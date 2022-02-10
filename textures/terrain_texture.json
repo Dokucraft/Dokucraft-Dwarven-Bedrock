@@ -159,6 +159,42 @@
     "black_glazed_terracotta": {
       "textures": "textures/blocks/black_glazed_terracotta"
     },
+		"blackstone": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/blackstone/0"
+          },
+          {
+            "path": "textures/blocks/blackstone/1"
+          },
+          {
+            "path": "textures/blocks/blackstone/2"
+          },
+          {
+            "path": "textures/blocks/blackstone/3"
+          }
+        ]
+      }
+    },
+    "blackstone_top": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/blackstone/0"
+          },
+          {
+            "path": "textures/blocks/blackstone/1"
+          },
+          {
+            "path": "textures/blocks/blackstone/2"
+          },
+          {
+            "path": "textures/blocks/blackstone/3"
+          }
+        ]
+      }
+    },
     "blast_furnace": {
       "textures": [
         "textures/blocks/blast_furnace_front",
@@ -624,6 +660,15 @@
           },
           {
             "path": "textures/blocks/deepslate/ores/emerald/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/4"
           }
         ]
       }

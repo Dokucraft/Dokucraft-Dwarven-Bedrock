@@ -1856,7 +1856,16 @@
     },
     "pumpkin_face": {
       "textures": [
-        "textures/blocks/carved_pumpkin",
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/carved_pumpkin_1"
+            },
+            {
+              "path": "textures/blocks/carved_pumpkin_2"
+            }
+          ]
+        },
         "textures/blocks/jack_o_lantern",
         "textures/blocks/pumpkin_side"
       ]

@@ -2771,6 +2771,22 @@
           {
             "path": "textures/blocks/netherrack/1",
             "weight": 825
+          },
+          {
+            "path": "textures/blocks/netherrack/2",
+            "weight": 25
+          },
+          {
+            "path": "textures/blocks/netherrack/3",
+            "weight": 800
+          },
+          {
+            "path": "textures/blocks/netherrack/4",
+            "weight": 5
+          },
+          {
+            "path": "textures/blocks/netherrack/5",
+            "weight": 5
           }
         ]
       }

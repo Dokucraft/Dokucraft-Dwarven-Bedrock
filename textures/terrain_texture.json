@@ -8,48 +8,7 @@
 			"textures": "textures/blocks/acacia_log"
 		},
 		"acacia_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/acacia/0"
-            },
-            {
-              "path": "textures/blocks/log/acacia/1"
-            },
-            {
-              "path": "textures/blocks/log/acacia/2"
-            },
-            {
-              "path": "textures/blocks/log/acacia/3"
-            },
-            {
-              "path": "textures/blocks/log/acacia/4"
-            },
-            {
-              "path": "textures/blocks/log/acacia/5"
-            },
-            {
-              "path": "textures/blocks/log/acacia/6"
-            },
-            {
-              "path": "textures/blocks/log/acacia/7"
-            },
-            {
-              "path": "textures/blocks/log/acacia/8"
-            },
-            {
-              "path": "textures/blocks/log/acacia/9"
-            },
-            {
-              "path": "textures/blocks/log/acacia/10"
-            },
-            {
-              "path": "textures/blocks/log/acacia/11"
-            }
-          ]
-        }
-			]
+			"textures": "textures/blocks/acacia_log_top"
 		},
     "acacia_planks": {
       "textures": "textures/blocks/acacia_planks"
@@ -201,48 +160,7 @@
 			"textures": "textures/blocks/birch_log"
 		},
 		"birch_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/birch/0"
-            },
-            {
-              "path": "textures/blocks/log/birch/1"
-            },
-            {
-              "path": "textures/blocks/log/birch/2"
-            },
-            {
-              "path": "textures/blocks/log/birch/3"
-            },
-            {
-              "path": "textures/blocks/log/birch/4"
-            },
-            {
-              "path": "textures/blocks/log/birch/5"
-            },
-            {
-              "path": "textures/blocks/log/birch/6"
-            },
-            {
-              "path": "textures/blocks/log/birch/7"
-            },
-            {
-              "path": "textures/blocks/log/birch/8"
-            },
-            {
-              "path": "textures/blocks/log/birch/9"
-            },
-            {
-              "path": "textures/blocks/log/birch/10"
-            },
-            {
-              "path": "textures/blocks/log/birch/11"
-            }
-          ]
-        }
-			]
+			"textures": "textures/blocks/birch_log_top"
 		},
     "birch_planks": {
       "textures": "textures/blocks/birch_planks"
@@ -712,48 +630,7 @@
 			"textures": "textures/blocks/dark_oak_log"
 		},
 		"dark_oak_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/dark_oak/0"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/1"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/2"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/3"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/4"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/5"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/6"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/7"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/8"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/9"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/10"
-            },
-            {
-              "path": "textures/blocks/log/dark_oak/11"
-            }
-          ]
-        }
-			]
+			"textures": "textures/blocks/dark_oak_log_top"
 		},
     "dark_oak_planks": {
       "textures": "textures/blocks/dark_oak_planks"
@@ -2381,48 +2258,7 @@
 			"textures": "textures/blocks/jungle_log"
 		},
 		"jungle_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/jungle/0"
-            },
-            {
-              "path": "textures/blocks/log/jungle/1"
-            },
-            {
-              "path": "textures/blocks/log/jungle/2"
-            },
-            {
-              "path": "textures/blocks/log/jungle/3"
-            },
-            {
-              "path": "textures/blocks/log/jungle/4"
-            },
-            {
-              "path": "textures/blocks/log/jungle/5"
-            },
-            {
-              "path": "textures/blocks/log/jungle/6"
-            },
-            {
-              "path": "textures/blocks/log/jungle/7"
-            },
-            {
-              "path": "textures/blocks/log/jungle/8"
-            },
-            {
-              "path": "textures/blocks/log/jungle/9"
-            },
-            {
-              "path": "textures/blocks/log/jungle/10"
-            },
-            {
-              "path": "textures/blocks/log/jungle/11"
-            }
-          ]
-        }
-			]
+			"textures": "textures/blocks/jungle_log_top"
 		},
     "jungle_planks": {
       "textures": "textures/blocks/jungle_planks"
@@ -3015,49 +2851,8 @@
 		"oak_log_side": {
 			"textures": "textures/blocks/oak_log"
 		},
-		"oak_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/oak/0"
-            },
-            {
-              "path": "textures/blocks/log/oak/1"
-            },
-            {
-              "path": "textures/blocks/log/oak/2"
-            },
-            {
-              "path": "textures/blocks/log/oak/3"
-            },
-            {
-              "path": "textures/blocks/log/oak/4"
-            },
-            {
-              "path": "textures/blocks/log/oak/5"
-            },
-            {
-              "path": "textures/blocks/log/oak/6"
-            },
-            {
-              "path": "textures/blocks/log/oak/7"
-            },
-            {
-              "path": "textures/blocks/log/oak/8"
-            },
-            {
-              "path": "textures/blocks/log/oak/9"
-            },
-            {
-              "path": "textures/blocks/log/oak/10"
-            },
-            {
-              "path": "textures/blocks/log/oak/11"
-            }
-          ]
-        }
-			]
+		"oak_log_top":  {
+			"textures": "textures/blocks/oak_log_top"
 		},
 		"oak_planks": {
 			"textures": "textures/blocks/oak_planks"
@@ -3589,48 +3384,7 @@
 			"textures": "textures/blocks/spruce_log"
 		},
 		"spruce_log_top": {
-			"textures": [
-				{
-          "variations": [
-            {
-              "path": "textures/blocks/log/spruce/0"
-            },
-            {
-              "path": "textures/blocks/log/spruce/1"
-            },
-            {
-              "path": "textures/blocks/log/spruce/2"
-            },
-            {
-              "path": "textures/blocks/log/spruce/3"
-            },
-            {
-              "path": "textures/blocks/log/spruce/4"
-            },
-            {
-              "path": "textures/blocks/log/spruce/5"
-            },
-            {
-              "path": "textures/blocks/log/spruce/6"
-            },
-            {
-              "path": "textures/blocks/log/spruce/7"
-            },
-            {
-              "path": "textures/blocks/log/spruce/8"
-            },
-            {
-              "path": "textures/blocks/log/spruce/9"
-            },
-            {
-              "path": "textures/blocks/log/spruce/10"
-            },
-            {
-              "path": "textures/blocks/log/spruce/11"
-            }
-          ]
-        }
-			]
+			"textures": "textures/blocks/spruce_log_top"
 		},
     "spruce_planks": {
       "textures": "textures/blocks/spruce_planks"

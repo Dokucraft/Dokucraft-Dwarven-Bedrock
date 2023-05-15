@@ -9,8 +9,8 @@
   },
   "modules": [
     {
-			"version" : [ 1, 1, 5 ],
-			"description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
+      "version" : [ 1, 1, 5 ],
+      "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
       "type" : "resources",
       "uuid" : "1ce11d35-476e-4582-8e61-cad6524b53b7"
     }

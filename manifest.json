@@ -4,7 +4,7 @@
     "version" : [ 1, 21, 20 ],
     "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
     "name" : "Dokucraft Dwarven",
-    "uuid" : "83a406c6-047b-4c4f-b486-652d305b0c7a",
+    "uuid" : "c66a5196-0163-4f36-a073-f51f86d2b237",
     "min_engine_version": [ 1, 16, 0 ]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "version" : [ 1, 21, 20 ],
       "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
       "type" : "resources",
-      "uuid" : "1ce11d35-476e-4582-8e61-cad6524b53b7"
+      "uuid" : "06eefcfc-58ea-4e99-8432-4c11b073459d"
     }
   ]
 }

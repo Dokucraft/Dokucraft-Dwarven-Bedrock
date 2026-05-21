@@ -5,7 +5,7 @@
     "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
     "name" : "Dokucraft Dwarven",
     "uuid" : "c66a5196-0163-4f36-a073-f51f86d2b237",
-    "min_engine_version": [ 1, 26, 0 ]
+    "min_engine_version": [ 1, 26, 20 ]
   },
   "modules": [
     {

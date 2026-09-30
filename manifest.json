@@ -1,15 +1,15 @@
 {
   "format_version" : 2,
   "header" : {
-    "version" : [ 1, 21, 20 ],
+    "version" : [ 1, 21, 60 ],
     "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
     "name" : "Dokucraft Dwarven",
     "uuid" : "c66a5196-0163-4f36-a073-f51f86d2b237",
-    "min_engine_version": [ 1, 26, 20 ]
+    "min_engine_version": [ 1, 26, 60 ]
   },
   "modules": [
     {
-      "version" : [ 1, 21, 20 ],
+      "version" : [ 1, 21, 60 ],
       "description" : "\u00A74Strong and Stout\n\u00A76By Handsome_Dan",
       "type" : "resources",
       "uuid" : "06eefcfc-58ea-4e99-8432-4c11b073459d"

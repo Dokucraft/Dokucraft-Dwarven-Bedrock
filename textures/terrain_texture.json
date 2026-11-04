@@ -3513,6 +3513,18 @@
 		"oxeye_daisy": {
 			"textures": "textures/blocks/oxeye_daisy"
 		},
+		"packed_ice_bricks": {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/packed_ice_bricks/0"
+					},
+					{
+						"path": "textures/blocks/packed_ice_bricks/1"
+					}
+				]
+			}
+		},
 		"pale_hanging_moss": {
       "textures": [
         "textures/blocks/pale_hanging_moss",

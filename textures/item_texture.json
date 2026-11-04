@@ -298,65 +298,6 @@
     "potion_bottle_empty": {
       "textures": "textures/items/glass_bottle"
     },
-    "potion_bottle_lingering": {
-      "textures": [
-        "textures/items/lingering_potion",
-        "textures/items/potion_bottle_lingering_moveSpeed",
-        "textures/items/potion_bottle_lingering_moveSlowdown",
-        "textures/items/potion_bottle_lingering_damageBoost",
-        "textures/items/potion_bottle_lingering_heal",
-        "textures/items/potion_bottle_lingering_harm",
-        "textures/items/potion_bottle_lingering_jump",
-        "textures/items/potion_bottle_lingering_regeneration",
-        "textures/items/potion_bottle_lingering_fireResistance",
-        "textures/items/potion_bottle_lingering_waterBreathing",
-        "textures/items/potion_bottle_lingering_invisibility",
-        "textures/items/potion_bottle_lingering_nightVision",
-        "textures/items/potion_bottle_lingering_weakness",
-        "textures/items/potion_bottle_lingering_poison",
-        "textures/items/potion_bottle_lingering_wither",
-        "textures/items/potion_bottle_lingering_turtleMaster",
-        "textures/items/potion_bottle_lingering_slowFall",
-        "textures/items/potion_bottle_lingering_windCharged",
-        "textures/items/potion_bottle_lingering_weaving",
-        "textures/items/potion_bottle_lingering_oozing",
-        "textures/items/potion_bottle_lingering_infested"
-      ]
-    },
-    "potion_bottle_splash": {
-      "textures": [
-        "textures/items/splash_potion",
-        "textures/items/potion_bottle_splash_moveSpeed",
-        "textures/items/potion_bottle_splash_moveSlowdown",
-        "textures/items/potion_bottle_splash_digSpeed",
-        "textures/items/potion_bottle_splash_digSlowdown",
-        "textures/items/potion_bottle_splash_damageBoost",
-        "textures/items/potion_bottle_splash_heal",
-        "textures/items/potion_bottle_splash_harm",
-        "textures/items/potion_bottle_splash_jump",
-        "textures/items/potion_bottle_splash_confusion",
-        "textures/items/potion_bottle_splash_regeneration",
-        "textures/items/potion_bottle_splash_resistance",
-        "textures/items/potion_bottle_splash_fireResistance",
-        "textures/items/potion_bottle_splash_waterBreathing",
-        "textures/items/potion_bottle_splash_invisibility",
-        "textures/items/potion_bottle_splash_blindness",
-        "textures/items/potion_bottle_splash_nightVision",
-        "textures/items/potion_bottle_splash_hunger",
-        "textures/items/potion_bottle_splash_weakness",
-        "textures/items/potion_bottle_splash_poison",
-        "textures/items/potion_bottle_splash_wither",
-        "textures/items/potion_bottle_splash_healthBoost",
-        "textures/items/potion_bottle_splash_absorption",
-        "textures/items/potion_bottle_splash_saturation",
-        "textures/items/potion_bottle_splash_turtleMaster",
-        "textures/items/potion_bottle_splash_slowFall",
-        "textures/items/potion_bottle_splash_windCharged",
-        "textures/items/potion_bottle_splash_weaving",
-        "textures/items/potion_bottle_splash_oozing",
-        "textures/items/potion_bottle_splash_infested"
-      ]
-    },
     "pufferfish": {
       "textures": "textures/items/pufferfish"
     },
